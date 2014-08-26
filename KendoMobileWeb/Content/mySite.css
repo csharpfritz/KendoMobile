@@ -1,0 +1,18 @@
+﻿.fieldCaption {
+  width: 140px;
+  font-weight: bold;
+  display: inline-block;
+}
+
+.error {
+  padding-top: 20px;
+}
+
+.error * {
+  color: red;
+  font-weight: bold;
+}
+
+footer {
+  text-align: center;
+}
